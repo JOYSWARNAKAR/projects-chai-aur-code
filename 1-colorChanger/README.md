@@ -1,5 +1,4 @@
 # 1-colorChanger
-## live  here :
 
 # Explanation:
 
